@@ -1,12 +1,10 @@
 Valentines Update|Happy Valentine's Day from everyone here at Intima!
 To celebrate, we are dropping a few new items!
 <br>
-<b>+ 4 NEW HAIRS FOR FEMALE<br>
++ 4 NEW HAIRS FOR FEMALE<br>
 + 2 NEW NECKLACES FOR FEMALE<br>
 + 2 NEW GLASSES FOR FEMALE<br>
-<color=pink>Big Thanks to CandyEvilZ for these!</color>
-</b>
-<br>
+<color="ff00af">Big Thanks to CandyEvilZ for these!</color>
 <br>
 <i>There will be a later update for male attributes, don't worry, we haven't forgotten, these elements just take longer to manufacture.</i>
 |https://cdn.discordapp.com/attachments/809912136474165298/810464098205696020/Valentine_Update_Thumb.png||||
