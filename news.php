@@ -8,7 +8,7 @@ The Colorful Update|<color=#eabdff>The</color> <color=#ff9ecf>Colorful</color> <
 <br>
 <color=#ff00af><i>Big Thanks to CandyEvilZ for these!</i></color><br>
 <color=#ffd29e>+<i> Fixed a bug where when people would clap their cheeks Niki Minaj would summon. this won't happen anymore</i></color>
-|https://cdn.discordapp.com/attachments/809912136474165298/811997889295024188/Colorful_Update_Thumb.png||||
+|https://cdn.discordapp.com/attachments/809912136474165298/811997889295024188/Colorful_Update_Thumb.png|||
 Valentines Update|Happy Valentine's Day from everyone here at Intima!
 To celebrate, we are dropping a few new items!
 <br>
