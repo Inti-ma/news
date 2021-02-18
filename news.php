@@ -1,10 +1,21 @@
+The Colorful Update|<color=#eabdff>The</color> <color=#ff9ecf>Colorful</color> <color=#9ef9ff>Update</color><br>
+<color=#ffd29e>+  Added a <b>/color</b> command, try it out in game to see what it does!</color><br>
+<color=#b8ff9e>+  2 Female Hairs</color><br>
+<color=#9ef9ff>+  4 Male Hairs</color><br>
+<color=#eabdff>+  1 Female Belt</color><br>
+<color=#ff9ecf>+  1 Male Towel</color><br>
+<color=#b8ff9e>+  1 Male Accessory</color><br>
+<br>
+<color=#ff00af><i>Big Thanks to CandyEvilZ for these!</i></color><br>
+<color=#ffd29e>+<i> Fixed a bug where when people would clap their cheeks Niki Minaj would summon. this won't happen anymore</i></color>
+|https://cdn.discordapp.com/attachments/809912136474165298/811997889295024188/Colorful_Update_Thumb.png|||
 Valentines Update|Happy Valentine's Day from everyone here at Intima!
 To celebrate, we are dropping a few new items!
 <br>
 + 4 NEW HAIRS FOR FEMALE<br>
 + 2 NEW NECKLACES FOR FEMALE<br>
 + 2 NEW GLASSES FOR FEMALE<br>
-<color="ff00af">Big Thanks to CandyEvilZ for these!</color>
+<color=#ff00af>Big Thanks to CandyEvilZ for these!</color>
 <br>
 <i>There will be a later update for male attributes, don't worry, we haven't forgotten, these elements just take longer to manufacture.</i>
 |https://cdn.discordapp.com/attachments/809912136474165298/810464098205696020/Valentine_Update_Thumb.png||||
