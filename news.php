@@ -1,3 +1,9 @@
+The Summertime Update!|It's summertime, and we're ready to celebrate here at Intima,
+by bringing a selection of different bits and bobs to improve your
+overall game experience!
+For the full patchnotes, click the image!
+
+Patch #001|https://cdn.discordapp.com/attachments/809912136474165298/868898740440793139/Patch001.png|https://inti.ma/news/patch-001/|||
 The Frisky Spring Update!|The Frisky Spring Update has arrived in Intima,
 bringing all sorts of new poses to enjoy alone and with partners!
 You can explore over 60 new poses including dances, sporty animations, idles,
